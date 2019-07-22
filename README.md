@@ -1,11 +1,11 @@
-#NoCommunication Atomic Swap Simulation
+# NoCommunication Atomic Swap Simulation
 
-##purpose
+## purpose
 Explaining NoCommunication Atomic Swap. 
 Please take a look at codes and comments.
 
-##requirement
+## requirement
 python3.X
 
-##usage
+## usage
 python3 no_communication_atomic_swap.py 
